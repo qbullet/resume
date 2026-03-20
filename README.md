@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Career Objective
-Results-oriented Backend & Infrastructure Engineer with 4 years of experience specializing in full-cycle development and scalable system design. Expert in the AWS ecosystem with a proven track record of architecting resilient and high-availability cloud environments. Experienced in leading technical tool selection, solving complex architectural challenges, and ensuring high-tier code quality through rigorous reviews. Seeking to leverage my dual expertise in software engineering and cloud infrastructure to deliver robust, high-performance solutions for a forward-thinking team.
+Backend & Infrastructure Engineer with 4 years of experience specializing in full-cycle development and scalable system design. Expert in the AWS ecosystem with a proven track record of architecting resilient and high-availability cloud environments. Experienced in leading technical tool selection, solving complex architectural challenges, and ensuring high-tier code quality through rigorous reviews. Seeking to leverage my dual expertise in software engineering and cloud infrastructure to deliver robust, high-performance solutions for a forward-thinking team.
 
 ---
 
