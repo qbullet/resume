@@ -10,13 +10,6 @@ Results-oriented Backend & Infrastructure Engineer with 4 years of experience sp
 
 ---
 
-## 🛠 Skills
-* **Backend:** Node.js (Express), Golang (Gin), MongoDB, MySQL, PostgreSQL, Redis, Kafka
-* **Frontend:** React, Vue
-* **Cloud & DevOps:** AWS, Docker, Terraform, GitLab-CI, Cloudflare
-
----
-
 ## 💼 Work Experience
 
 ### **Backend and Infrastructure Engineer | Bitnance Co., Ltd.**
@@ -49,6 +42,13 @@ Results-oriented Backend & Infrastructure Engineer with 4 years of experience sp
 * **Mentored university students and junior developers** in fundamental programming, JavaScript, and Node.js development.
 * **Developed personalized courses and lesson plans** for both 1-on-1 and group training sessions.
 * **Acted as a technical consultant** for various projects, providing expert advice on technology stack selection and project architecture.
+
+---
+
+## 🛠 Skills
+* **Backend:** Node.js (Express), Golang (Gin), MongoDB, MySQL, PostgreSQL, Redis, Kafka
+* **Frontend:** React, Vue
+* **Cloud & DevOps:** AWS, Docker, Terraform, GitLab-CI, Cloudflare
 
 ---
 
