@@ -27,7 +27,7 @@ Backend & Infrastructure Engineer with 4 years of experience specializing in hig
 
 ---
 
-### **Frontend and Backend Developer | Gentlewomen Co., Ltd.**
+### **Frontend and Backend Developer | Gentlewoman Co., Ltd.**
 *(2020 - 2022)*
 
 * **Developed and maintained a robust E-Commerce web application**, focusing on providing a seamless and high-performance user experience.
